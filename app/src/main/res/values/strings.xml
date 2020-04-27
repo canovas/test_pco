@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">test_app</string>
+    <string name="data_cash">Cash</string>
+    <string name="data_credit_card">Credit Card</string>
+    <string name="data_bank_account">"Bank account</string>
+    <string name="data_tax">Tax</string>
+    <string name="data_grocery">Grocery</string>
+    <string name="data_entertaiment">Entertaiment</string>
+    <string name="data_gym">Gym</string>
+    <string name="data_health">Health</string>
+    <string name="data_salary">Salary</string>
+    <string name="data_dividends">Dividends</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="select_an_account">Select an account, please</string>
+    <string name="empty_data">[ Empty ]</string>
+    <string name="save">Save</string>
+    <string name="add_text">Enter name</string>
+    <string name="fill_fields">Empty fields…</string>
+    <string name="add_amount">Enter Amount</string>
+    <string name="remove">Remove</string>
+    <string name="total_amount">Total: </string>
+</resources>
